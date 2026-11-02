@@ -50,6 +50,10 @@ I'm a **Software Engineering student at Superior University** (BS Software Engin
 | Lab | Topic |
 |---|---|
 | [Lab 1](https://github.com/Mo-aini/ai-lab1-history-rule-based) | AI history & rule-based systems |
+| [Lab 2](https://github.com/Mo-aini/ai-lab2-agents-peas) | Intelligent agents — PEAS & environment classification |
+| [Lab 3](https://github.com/Mo-aini/ai-lab3-uninformed-search) | Uninformed search — BFS, DFS, IDDFS & UCS |
+| [Lab 4](https://github.com/Mo-aini/ai-lab4-astar-heuristics) | Informed search — A* & heuristics |
+| [Lab 5](https://github.com/Mo-aini/ai-lab5-minimax-alphabeta) | Adversarial search — Minimax & Alpha-Beta pruning |
 
 ---
 
