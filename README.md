@@ -56,6 +56,12 @@ with role-based login (admin / trainer / member), full SRS, use cases, user stor
 | [**Zippy Begonia**](https://github.com/Mo-aini/zippy-begonia-smart-business-card) | Smart digital business card · [Live demo](https://zippy-begonia-b49d7b.netlify.app/) |
 | [**Alaini Armory**](https://github.com/Mo-aini/alaini-armory) | Responsive tactical-weaponry showcase interface · HTML, CSS, JS |
 
+## 📚 Course Projects
+
+| Course | Project | Description |
+|---|---|---|
+| DSA / Web | [**sorting-algorithms-visualizer**](https://github.com/Mo-aini/sorting-algorithms-visualizer) | Animated sorting visualizer (bubble, selection, insertion, merge, quick, heap) with counters and complexity panel. · [Live demo](https://mo-aini.github.io/sorting-algorithms-visualizer/) |
+
 ## 🎓 Artificial Intelligence — Course Labs
 
 | Lab | Topic |
