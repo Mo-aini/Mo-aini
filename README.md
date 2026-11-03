@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Mohammed Emad ALaini 👋</h1>
 
-<h3 align="center">Software Engineering Student · Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Student · Full-Stack Developer · AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://mohammedemad.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"></a>
@@ -30,11 +30,22 @@ I'm a **Software Engineering student at Superior University** (BS Software Engin
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
 
+## ⭐ Featured Project
+
+### [🏋️ IronCore — Gym Management System](https://github.com/Mo-aini/gym-management-system)
+Integrated **Database + Web + Software Engineering** project: members, membership plans & subscriptions, class booking,
+personal-training appointments, trainers, cash/online payment records, attendance and an admin dashboard with revenue stats —
+with role-based login (admin / trainer / member), full SRS, use cases, user stories, ER and class diagrams.
+**PHP 8 · PDO · MySQL · HTML/CSS**
+
+<a href="https://github.com/Mo-aini/gym-management-system"><img src="https://raw.githubusercontent.com/Mo-aini/gym-management-system/main/screenshots/02-admin-dashboard.png" width="720" alt="Gym Management System dashboard"></a>
+
 ## 🚀 Projects
 
 | Project | Description |
 |---|---|
 | [**Personal Portfolio**](https://github.com/Mo-aini/mohammed-emad-portfolio) | Bilingual (EN/AR) portfolio with GSAP animations · [Live demo](https://mohammedemad.netlify.app/) |
+| [**Gym Management System**](https://github.com/Mo-aini/gym-management-system) | Full gym system — subscriptions, class booking, PT, payments, attendance, admin dashboard + SRS & UML · PHP + MySQL |
 | [**CarZone**](https://github.com/Mo-aini/carzone-car-marketplace) | Arabic car-dealership marketplace — dealers, listings, admin panel · PHP + MySQL |
 | [**Event Management & Ticket Booking**](https://github.com/Mo-aini/event-management-ticket-booking) | Browse events, book tickets, admin dashboard · HTML, CSS, JS · [Live demo](https://event-management-tickets-booking77.netlify.app/) |
 | [**Smart Parking System**](https://github.com/Mo-aini/smart-parking-system) | Parking management with user & admin dashboards · C++ & data structures · [Live demo](https://parkingsystem-78.netlify.app/) |
