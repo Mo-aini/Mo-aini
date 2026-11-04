@@ -61,6 +61,7 @@ with role-based login (admin / trainer / member), full SRS, use cases, user stor
 | Course | Project | Description |
 |---|---|---|
 | DSA / Web | [**sorting-algorithms-visualizer**](https://github.com/Mo-aini/sorting-algorithms-visualizer) | Animated sorting visualizer (bubble, selection, insertion, merge, quick, heap) with counters and complexity panel. · [Live demo](https://mo-aini.github.io/sorting-algorithms-visualizer/) |
+| Database Systems | [**ecommerce-database-system**](https://github.com/Mo-aini/ecommerce-database-system) | Normalized MySQL e-commerce database: schema, triggers, stored procedures, views, seed data and 24 SQL queries |
 
 ## 🎓 Artificial Intelligence — Course Labs
 
