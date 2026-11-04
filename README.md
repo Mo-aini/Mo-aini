@@ -73,6 +73,65 @@ with role-based login (admin / trainer / member), full SRS, use cases, user stor
 | [Lab 4](https://github.com/Mo-aini/ai-lab4-astar-heuristics) | Informed search — A* & heuristics |
 | [Lab 5](https://github.com/Mo-aini/ai-lab5-minimax-alphabeta) | Adversarial search — Minimax & Alpha-Beta pruning |
 
+## 📖 Coursework
+
+BS Software Engineering — Superior University.
+
+<details>
+<summary><b>Semester 1 — Spring 2025</b></summary>
+
+- Applied Physics (Theory)
+- Applied Physics (Lab)
+- Applications of Information &amp; Communication Technology (Theory)
+- Applications of Information &amp; Communication Technology (Lab)
+- Ideology and Constitution of Pakistan
+- Discrete Structures
+- Functional English
+- Islamic Studies
+
+</details>
+
+<details>
+<summary><b>Semester 2 — Fall 2025</b></summary>
+
+- Programming Fundamentals (Theory)
+- Programming Fundamentals (Lab)
+- Calculus &amp; Analytical Geometry
+- Probability &amp; Statistics
+- Digital Logic &amp; Design (Theory)
+- Digital Logic &amp; Design (Lab)
+- Expository Writing
+
+</details>
+
+<details>
+<summary><b>Semester 3 — Spring 2026</b></summary>
+
+- Object-Oriented Programming (Theory)
+- Object-Oriented Programming (Lab)
+- Software Engineering
+- Database Systems (Theory)
+- Database Systems (Lab)
+- Multivariable Calculus
+- Social Entrepreneurship Program
+
+</details>
+
+<details open>
+<summary><b>Semester 4 — Fall 2026 (in progress)</b></summary>
+
+- Data Structures &amp; Algorithms (Theory)
+- Data Structures &amp; Algorithms (Lab)
+- Linear Algebra
+- Software Requirements Engineering (Theory)
+- Software Requirements Engineering (Lab)
+- Artificial Intelligence (Theory)
+- Artificial Intelligence (Lab)
+- Web Development &amp; Design
+- Digital Marketing &amp; Freelancing
+
+</details>
+
 ---
 
 <div dir="rtl">
