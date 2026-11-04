@@ -49,8 +49,6 @@ with role-based login (admin / trainer / member), full SRS, use cases, user stor
 | [**CarZone**](https://github.com/Mo-aini/carzone-car-marketplace) | Arabic car-dealership marketplace — dealers, listings, admin panel · PHP + MySQL |
 | [**Event Management & Ticket Booking**](https://github.com/Mo-aini/event-management-ticket-booking) | Browse events, book tickets, admin dashboard · HTML, CSS, JS · [Live demo](https://event-management-tickets-booking77.netlify.app/) |
 | [**Smart Parking System**](https://github.com/Mo-aini/smart-parking-system) | Parking management with user & admin dashboards · C++ & data structures · [Live demo](https://parkingsystem-78.netlify.app/) |
-| [**Noor Luxury Residence — Bahria Town**](https://github.com/Mo-aini/noor-luxury-residence-bahria-town) | Client website for a luxury residence in Lahore · React + Tailwind · [Live demo](https://noor-luxury-residence-bahria-town.netlify.app/) |
-| [**Noor Luxury Residence — Gulberg**](https://github.com/Mo-aini/noor-luxury-residence-gulberg) | Client website with booking & WhatsApp inquiries · [Live demo](https://noor-luxury-residence-gulberg.netlify.app/) |
 | [**Cafe 220**](https://github.com/Mo-aini/cafe-220) | Modern café website — menu, gallery, reservations · [Live demo](https://cafe220.netlify.app/) |
 | [**Restaurant 220**](https://github.com/Mo-aini/restaurant-220) | Luxury fine-dining restaurant website · [Live demo](https://restaurant220.netlify.app/) |
 | [**Zippy Begonia**](https://github.com/Mo-aini/zippy-begonia-smart-business-card) | Smart digital business card · [Live demo](https://zippy-begonia-b49d7b.netlify.app/) |
