@@ -62,6 +62,7 @@ with role-based login (admin / trainer / member), full SRS, use cases, user stor
 | Database Systems | [**ecommerce-database-system**](https://github.com/Mo-aini/ecommerce-database-system) | Normalized MySQL e-commerce database: schema, triggers, stored procedures, views, seed data and 24 SQL queries |
 | Web (Full-Stack) | [**ecommerce-platform-fullstack**](https://github.com/Mo-aini/ecommerce-platform-fullstack) | Full-stack e-commerce store: React + Vite, Express, SQLite — catalog, cart, checkout (COD/simulated card), JWT, admin panel |
 | Artificial Intelligence | [**ai-chatbot-js**](https://github.com/Mo-aini/ai-chatbot-js) | CampusBuddy: campus help-desk chatbot in Node.js with rules, TF-IDF intent matching, memory, CLI and web UI |
+| Programming Fundamentals | [**bank-account-management-cpp**](https://github.com/Mo-aini/bank-account-management-cpp) | C++17 console banking system: accounts, deposits, withdrawals, transfers, transaction history and CSV persistence. |
 
 ## 🎓 Artificial Intelligence — Course Labs
 
